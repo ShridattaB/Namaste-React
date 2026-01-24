@@ -1,0 +1,23 @@
+{
+  "name": "namaste-react-shree",
+  "version": "1.0.0",
+  "description": "Learning the React ",
+  "keywords": [
+    "react"
+  ],
+  "homepage": "https://github.com/ShridattaB/Namaste-React#readme",
+  "bugs": {
+    "url": "https://github.com/ShridattaB/Namaste-React/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShridattaB/Namaste-React.git"
+  },
+  "license": "ISC",
+  "author": "Shree",
+  "type": "commonjs",
+  "main": "index.html",
+  "scripts": {
+    "test": "jest"
+  }
+}
